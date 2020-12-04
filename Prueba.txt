@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hola grupo.
 
 Modificado por JDGamez
+=======
+Hola grupo
+Bienvenido grupo
+>>>>>>> a8b383a8d6903aebfe555e89c3e90c755ad48250

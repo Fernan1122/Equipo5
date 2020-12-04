@@ -6,4 +6,11 @@ Modificado por JDGamez
 Hola grupo
 Bienvenido grupo
 >>>>>>> a8b383a8d6903aebfe555e89c3e90c755ad48250
+<<<<<<< HEAD
 Ey que tal me acabo de levantar este es un mensaje. XD
+=======
+
+
+Modificado por felipe
+no hemos arreglado el spring :/
+>>>>>>> 0329a1b10430524ec5b9cdc5f3419493c8b58882
